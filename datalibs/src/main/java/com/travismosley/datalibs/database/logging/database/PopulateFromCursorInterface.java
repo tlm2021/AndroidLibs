@@ -1,6 +1,6 @@
 package com.travismosley.datalibs.database.logging.database;
 
-import com.travismosley.android.data.database.logging.database.cursor.Cursor;
+import com.travismosley.datalibs.database.logging.database.cursor.Cursor;
 
 /**
  * Interface for objects that can be populated from a Cursor object

@@ -2,7 +2,7 @@ package com.travismosley.uilibs.event;
 
 import android.view.MotionEvent;
 
-import com.travismosley.math.Vector2D;
+import com.travismosley.mathlibs.Vector2D;
 
 /**
  * This class distills out the basic information about a swipe from a MotionEvent.

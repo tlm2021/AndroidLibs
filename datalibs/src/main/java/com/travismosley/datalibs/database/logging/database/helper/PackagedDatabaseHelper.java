@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
-import com.travismosley.android.data.database.logging.database.cursor.CursorFactory;
+import com.travismosley.datalibs.database.logging.database.cursor.CursorFactory;
 
 import java.io.File;
 import java.io.FileOutputStream;
