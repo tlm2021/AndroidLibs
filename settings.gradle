@@ -1,1 +1,1 @@
-include ':app', ':datalibs', ':uilibs'
+include ':app', ':datalibs', ':uilibs', ':mathlibs'

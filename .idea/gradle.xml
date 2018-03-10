@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/datalibs" />
+            <option value="$PROJECT_DIR$/mathlibs" />
             <option value="$PROJECT_DIR$/uilibs" />
           </set>
         </option>
